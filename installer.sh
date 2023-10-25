@@ -36,6 +36,7 @@ echo '**                         STARTED                        **'
 echo '************************************************************'
 echo "**               developed by: Dorik1972                  **"
 echo "**                 Uploaded by: Biko_73                   **"
+echo "**     https://www.linuxsat-support.com/thread/152703     **"
 echo "**  https://www.tunisia-sat.com/forums/threads/4291522/   **"
 echo "************************************************************"
 echo ''
