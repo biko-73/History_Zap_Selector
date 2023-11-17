@@ -12,8 +12,8 @@
 
 PACKAGE_DIR='History_Zap_Selector/main'
 
-MY_IPK="enigma2-plugin-extensions-historyzap_1.0.31_all.ipk"
-MY_DEB="enigma2-plugin-extensions-historyzap_1.0.31_all.deb"
+MY_IPK="enigma2-plugin-extensions-historyzap_1.0.32_all.ipk"
+MY_DEB="enigma2-plugin-extensions-historyzap_1.0.32_all.deb"
 
 ########################################################################################################################
 # Auto ... Do not change
